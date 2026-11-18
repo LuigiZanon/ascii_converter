@@ -1,0 +1,8 @@
+# Dependências do conversor de imagem para arte ASCII
+Pillow==12.3.0
+pywebview==6.2.1
+qtpy==2.4.3
+PySide6==6.12.0
+
+# Desenvolvimento / testes
+pytest==9.2.0
